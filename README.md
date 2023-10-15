@@ -1,5 +1,4 @@
 # Lead_scoring_x_education
-# Lead-Scoring_X-Education
 An education company named X Education sells online courses to industry professionals. The company markets its courses on several websites and search engines like Google. Once these people land on the website, they might browse the courses, fill up a form for the course, or watch some videos. When these people fill up a form providing their email address or phone number, they are classified to be a lead.
 #### A logistic regression model is made that assigns a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads.
 A typical lead conversion process can be represented using the following funnel:
